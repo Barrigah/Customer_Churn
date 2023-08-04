@@ -11,3 +11,10 @@ Customer churn, also referred to as customer attrition or customer defection, is
 ## Problem Statement
 The main challenge addressed in this Python-based project is to accurately forecast potential customer churn utilizing historical data, as supplied by our client
 <hr>
+
+## DATA SOURCING
+The data originates from the Client Database, and dedicated code was developed to extract the requisite information for analysis. The database was seamlessly linked to a Python Jupyter Notebook using the Pandas and pyodbc libraries.
+
+![Screenshot (107)](https://github.com/Barrigah/Customer_Churn/assets/141326495/25fa0550-f5dc-42b1-a743-7b4accda3d34)
+
+<hr>
