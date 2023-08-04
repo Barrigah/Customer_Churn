@@ -21,9 +21,9 @@ The data originates from the Client Database, and dedicated code was developed t
 
 ## Detail Approach used in the Project
 
->- The approach employed to address the problem encompassed several key steps, demonstrating a comprehensive methodology for churn prediction:
+> The approach employed to address the problem encompassed several key steps, demonstrating a comprehensive methodology for churn prediction:
 
-Churn Definition: Churn was meticulously defined as the absence of any customer purchase within the last 8 months of business transactions, specifically, when the maximum or last transaction date is before October 31, 2007.
+- Churn Definition: Churn was meticulously defined as the absence of any customer purchase within the last 8 months of business transactions, specifically, when the maximum or last transaction date is before October 31, 2007.
 
 Exploratory Analysis: An exploratory analysis was undertaken to gain insights into the characteristics of churners. This analysis involved delving into demographic, transactional, and attitudinal data. A decision tree was utilized to establish a rule set for describing these customers, and distribution plots were created to visualize demographic variables against the churn target.
 
