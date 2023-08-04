@@ -19,7 +19,7 @@ The data originates from the Client Database, and dedicated code was developed t
 
 <hr>
 
-## Detail Approach used in the Project
+## Methodology
 
 > The approach employed to address the problem encompassed several key steps, demonstrating a comprehensive methodology for churn prediction:
 
