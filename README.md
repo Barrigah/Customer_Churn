@@ -63,6 +63,8 @@ In conclusion, the commercial impact of our churner prediction lies in its poten
 
 ## Commercial Impact
 A total of 6,464 customers were assessed and scored. Among them, 572 customers are predicted to be inclined towards churn, while a significant majority of 5,837 customers are expected to remain loyal. On average, each customer generates an annual revenue of £1,975. Anticipating the potential success of our churning prevention strategy, the estimated commercial value amounts to $1,129,897.00.
+ 
+ ![image](https://github.com/Barrigah/Customer_Churn/assets/141326495/d12b3163-cfdf-439c-9c38-4464e7ca9aab)
 
 <hr>
 
@@ -76,7 +78,6 @@ A total of 6,464 customers were assessed and scored. Among them, 572 customers a
 
 - Solicit Feedback and Input: Actively engage with potential churners by seeking their feedback and recommendations on product offerings and specifications. This engagement not only demonstrates a genuine interest in their preferences but also encourages them to become active participants in our product improvement process.
 
-  ![image](https://github.com/Barrigah/Customer_Churn/assets/141326495/8bd2e577-9ec6-49a2-a574-c65f82a9368f)
 
 <hr>
 
