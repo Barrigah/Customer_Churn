@@ -76,6 +76,10 @@ A total of 6,464 customers were assessed and scored. Among them, 572 customers a
 
 - Solicit Feedback and Input: Actively engage with potential churners by seeking their feedback and recommendations on product offerings and specifications. This engagement not only demonstrates a genuine interest in their preferences but also encourages them to become active participants in our product improvement process.
 
+  ![image](https://github.com/Barrigah/Customer_Churn/assets/141326495/8bd2e577-9ec6-49a2-a574-c65f82a9368f)
+
+<hr>
+
 ## By implementing these recommendations, we can foster the following positive outcomes:
 
 >- Retention: The personalized offers and promotions will entice potential churners to make purchases, reducing the likelihood of churn and preserving valuable revenue streams.
